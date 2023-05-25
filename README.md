@@ -14,3 +14,4 @@ VacationPy, reads the outputted cities.csv generated from WeatherPy, which then 
 
 Resources used for this project include, Instructor provided starter code, Office hours, Tutor assistance, Study-Group, course material, Stack Overflow, OpenWeatherMap documentation, Geoapify documentation, and matplotlib documentation.
 
+The dataset random and provides a sample of approximately 500 cities of interest and doesn’t fully represent all of the worldwide cities in the northern and southern hemisphere.  Of the data retrieved however, ideal cities meeting our set criteria for ideal weather conditions occurred in the northern hemisphere with six events, whereas only four appeared in the southern hemisphere. 
